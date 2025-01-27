@@ -1,2 +1,2 @@
 # newproject
-first git repository
+first git repository author-rasmiranjan nayak
